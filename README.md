@@ -22,7 +22,4 @@ O desenvolvimento ocorreu entre 19 e 23 de maio de 2025.
 - Mover jogos entre listas  
 - Seed do banco de dados  
 
----
-
-## Arquitetura
 
